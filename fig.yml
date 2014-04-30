@@ -1,0 +1,8 @@
+skipper:
+    build: .
+    volumes:
+        - .:/code
+test:
+    build: test
+    ports:
+        - "1337:1337"

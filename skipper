@@ -1,0 +1,4 @@
+#!/bin/bash
+#
+
+exec fig run skipper python skipper.py $1

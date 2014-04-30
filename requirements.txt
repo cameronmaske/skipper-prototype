@@ -1,0 +1,6 @@
+aaargh
+boto
+pytest
+-e git://github.com/lfasnacht/fabric.git@local_tunnel#egg=fabric
+docker-py
+jinja2

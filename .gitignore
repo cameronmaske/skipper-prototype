@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+*~
+.DS_Store
+
+config.json
+__pycache__
